@@ -7,6 +7,8 @@ This app is a small single-page calculator for comparing two ways to use your ca
 
 It helps answer a practical question: over a chosen time horizon, does extra equity in the property save more money than investing that extra cash elsewhere?
 
+You can play with it here: https://javier.gr/swiss.property.financing/
+
 ![](docs/main.png)
 
 ## Run It
